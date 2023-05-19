@@ -34,4 +34,4 @@ This code is a high-level outline and serves as a starting point for building th
 
 ## License
 
-This project is licensed under the MIT License - see the [[LICENSE]][(https://github.com/Slyx737/Alpha-Vantage-ChatGPT-Plugin/blob/main/LICENSE.md)] file for details.
+This project is licensed under the MIT License - see the [LICENSE][(https://github.com/Slyx737/Alpha-Vantage-ChatGPT-Plugin/blob/main/LICENSE.md)] file for details.
